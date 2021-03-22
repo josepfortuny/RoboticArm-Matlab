@@ -29,14 +29,15 @@ that we had to archive:
     ow Matlab application that can simplify and
     minimize the users actions.
     
-## Hardware & Software
-* Matlab 2019 or further
-* Export Code
+## Hardware Needed
 * Arduino
 * EduExo (robotic exoskeleton kit):
 
-
 ![EduExo](https://github.com/josepfortuny/RoboticArm-Matlab/blob/main/Memory/Images/eduexo.png)
+
+## Software Needed
+* Matlab 2019 or further
+* Code
     
     
 ## More Information
