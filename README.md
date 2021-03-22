@@ -34,6 +34,8 @@ that we had to archive:
 * Export Code
 * Arduino
 * EduExo (robotic exoskeleton kit):
+
+
 ![EduExo](https://github.com/josepfortuny/RoboticArm-Matlab/blob/main/Memory/Images/eduexo.png)
     
     
