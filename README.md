@@ -33,8 +33,8 @@ that we had to archive:
 * Matlab 2019 or further
 * Export Code
 * Arduino
-* EduExo (robotic exoskeleton kit)
-* (foto)
+* EduExo (robotic exoskeleton kit):
+![EduExo](https://github.com/josepfortuny/RoboticArm-Matlab/blob/main/Memory/Images/eduexo.png)
     
     
 ## More Information
