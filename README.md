@@ -1,4 +1,4 @@
-# BrazoRobotico-Matlab
+# RoboticArm-Matlab
 
 ## Goals
 
