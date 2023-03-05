@@ -3,7 +3,7 @@
 ## Goals
 
 The main goal of this project is to create a tool that can monitor the patients
-that sufers from Neuromuscular Disorders in the upper extremity's actions and
+that suffers from Neuromuscular Disorders in the upper extremity's actions and
 giving feedback to the doctor. To archive this goal we set certain objectives
 that we had to archive:
 
